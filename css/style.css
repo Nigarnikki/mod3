@@ -131,9 +131,8 @@ h1 {
 	position: relative;
 	background-color: #5A8A81;
 	border: 3px solid #48887B;
-	margin: 55px;
-	margin-left: 60px;
-	margin-right: 70px;
+	margin: 25px;
+
 }
 h1 {
 	padding-top: 30px;
@@ -141,5 +140,5 @@ h1 {
 	@media (max-width: 479px) {
 	.navbar-brand h1 {
 		padding-top: 5px;
-		font-size: 6vw;
+		font-size: 8vw;
 	}
